@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sarwan-Ahmed
-- 👀 I’m interested in Data Science/Machine Learning
+- 👀 I’m interested in Micro-Services with GoLang/Python
 - 💞️ I’m looking to collaborate on challanging projects
 - 📫 Reach me out at shaikhsarwan49@gmail.com 
 
